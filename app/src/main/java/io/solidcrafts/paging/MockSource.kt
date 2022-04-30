@@ -1,5 +1,5 @@
 package io.solidcrafts.paging
 
-val data = List(100) {
+val mockedData = List(100) {
     "item $it"
 }
